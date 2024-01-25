@@ -1,4 +1,4 @@
-# 2024-rcm-rpm-tasks
+# README.md
 
 This repository was created in January 2024 order to keep track of tasks that the Research Community Manager (Currently Anne Lee Steele, asteele@turing.ac.uk, @aleesteele) and Research Project Manager (currently Alexandra Araujo Alvarez, aaraujo.alvarez@turing.ac.uk, @AlexandraAAJ).
 
