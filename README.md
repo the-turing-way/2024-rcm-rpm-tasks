@@ -34,13 +34,28 @@ The following project board is being used by this group: https://github.com/orgs
 ## Members
 
 - Alejandro Coca-Castro
+- Alexandra Araujo Alvarez
 - Anne Lee Steele
+- Arielle Bennett
+- Cecilia Baldoni
+- Emma Karoune
+- Esther Plomp
 - Johnanna Bayer
+- Jim Madge
+- Kirstie Whitaker
+
+
 - Léllé Demertzi
+- Liz Hare
+- Malvika Sharan
+- Maryblessing Okolie
 - Neha Moopen
+- Precious Oneyewuchi
+- Renee Hui Xin Ng
 - Sara Villa
 - Saranjeet Kaur
 - Shern Tee
+- Susana Roman Garcia
 
 ## Contributors
 
