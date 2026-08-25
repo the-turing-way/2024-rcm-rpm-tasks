@@ -45,7 +45,7 @@ Note - there are tons of community-related issues that we have flagged on our ne
 
 ## Announcing Collaboration Cafe! example
 
-:partyblobcat:Hello TTW friends
+:partyblobcat: Hello TTW friends
 
 Collaboration Café is back! :sunglasses:
 
